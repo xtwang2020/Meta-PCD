@@ -16,4 +16,13 @@ pip install tensorboardX
 Clone this repository:
 
 git clone https://github.com/xtwang2020/Meta-PCD.git
+
+
+# Denoising
+To denoise point clouds using default settings and calculate the metric:
+
 cd Meta-PCD
+python test.py
+python metric_cal.py
+
+
