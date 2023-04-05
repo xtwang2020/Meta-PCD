@@ -1,6 +1,6 @@
 # Meta-PCD
 This is our implementation of Meta-PCD which is a meta-network-based method for point cloud denoising.
-![Meta-PCD](https://user-images.githubusercontent.com/95417188/229996540-f2bdce28-4ec2-4477-832e-b8d097f8e096.jpg)
+![Meta-PCD](https://user-images.githubusercontent.com/95417188/229996803-080b2fcd-760b-4402-8b3d-de949cb2b8c4.jpg)
 
 # Prerequisites
 CUDA and CuDNN (changing the code to run on CPU should require few changes)
